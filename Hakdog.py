@@ -1,1 +1,1 @@
-
+print("Nakikita Moto?")
