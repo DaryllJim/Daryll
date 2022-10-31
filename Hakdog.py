@@ -1,7 +1,7 @@
 #Japnese Quiz Game
 
 def score(point,score):
-  print(f"Score: {point)/{score}")
+  print(f"Score: {point}/{score}")
 
 def question():
   point = 0
