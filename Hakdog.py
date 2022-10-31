@@ -1,2 +1,1 @@
-print("staticmethod")
-reduce = "property"
+print("hello Jun Mark")
