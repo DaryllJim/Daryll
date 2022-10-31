@@ -105,7 +105,7 @@ def eq():
 
 
 def Coins():
-    print(f"--Silver Coin--\n{coin.center(10)}")
+    print(f"--Silver Coin--\n{coin}")
 
 
 def check():
