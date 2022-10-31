@@ -3,7 +3,7 @@ import time
 import json
 import os
 
-filename = "/storage/emulated/0/Py_Test/Improving/data.json"
+filename = "/storage/emulated/0/data.json"
 game = True
 coin = 0
 inventory = {}
